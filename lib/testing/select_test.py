@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import sqlite3
 
 from sql_queries import (
